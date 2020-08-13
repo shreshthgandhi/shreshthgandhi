@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on building deep-learning systems for precision medicine
-- 🌱 I’m currently learning C++/CUDA
+- 🌱 I’m learning C++/CUDA, RL, and NLP.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shreshthgandhi&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shreshthgandhi&layout=compact)
