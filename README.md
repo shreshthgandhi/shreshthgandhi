@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🔭 I’m currently working on building deep-learning systems for precision medicine
-- 🌱 I’m learning C++/CUDA, RL, and NLP.
+- 🔭 I’m currently working on building deep-learning models for the interpretation of human genetic variants.
+- 🌱 I’m learning Statistical Genetics, Energy Based Models, Causal Inference
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shreshthgandhi&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shreshthgandhi&layout=compact)
